@@ -526,8 +526,8 @@ Special thanks to:
 
 **⭐ If you found this project helpful, please give it a star! ⭐**
 
-![Footer Banner](<!-- INSERT FOOTER BANNER LINK HERE -->)
+![Footer Banner](<https://drive.google.com/file/d/1jGQr09zsYHbvzAUkqiHbQXo8FV9cXXd4/view&id=1jGQr09zsYHbvzAUkqiHbQXo8FV9cXXd4>)
 
-*Built with ❤️ and ☕ by Sanket Singh*
+*Built by Sanket Singh*
 
 </div>
