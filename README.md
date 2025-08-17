@@ -254,7 +254,7 @@ FLUX_IMAGEGEN_API_URL=http://localhost:8001
 
 # Application Settings
 DEBUG=True
-CORS_ORIGINS=["http://localhost:3000"]
+CORS_ORIGINS=["http://localhost:5173"]
 ```
 
 ### 🎨 Frontend Configuration
@@ -303,7 +303,7 @@ REACT_APP_ENVIRONMENT=development
    ```
 
 3. **Access the Application**
-   - **Frontend**: http://localhost:3000
+   - **Frontend**: http://localhost:5173
    - **Backend API**: http://localhost:8000
    - **API Documentation**: http://localhost:8000/docs
 
