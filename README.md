@@ -9,7 +9,7 @@
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://ai-content-image-explorer-frontend.vercel.app/)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge)](#contributing)
 
-[🌐 Live Demo](https://ai-content-image-explorer-frontend.vercel.app/) • [📖 Documentation](#api-documentation) • [🐛 Report Bug](#contact) • [💡 Request Feature](#contact)
+[🌐 Live Demo](https://ai-content-image-explorer-frontend.vercel.app/) • [📖 Documentation](<https://docs.google.com/document/d/1RZItcYaS31PgcPsm9rxf3b40hYbwjWwrHoUg7EorM8E/edit?usp=sharing>) • [🐛 Report Bug](#contact) • [💡 Request Feature](#contact)
 
 </div>
 
