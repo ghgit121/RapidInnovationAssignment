@@ -526,7 +526,7 @@ Special thanks to:
 
 **⭐ If you found this project helpful, please give it a star! ⭐**
 
-![Footer Banner](<https://drive.google.com/file/d/1jGQr09zsYHbvzAUkqiHbQXo8FV9cXXd4/view&id=1jGQr09zsYHbvzAUkqiHbQXo8FV9cXXd4>)
+![Footer Banner](<https://drive.google.com/file/d/uc?export=view&id=1jGQr09zsYHbvzAUkqiHbQXo8FV9cXXd4>)
 
 *Built by Sanket Singh*
 
