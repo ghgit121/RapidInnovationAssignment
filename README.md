@@ -95,7 +95,7 @@ Whether you're a researcher looking for comprehensive web insights, a content cr
 
 <div align="center">
 
-![Login Page](<https://drive.google.com/uc?export=view&id=1qYlLZ0fPhG9gLB1VIo0IKow1WgWSdGK>)
+![Login Page](<https://drive.google.com/uc?export=view&id=1qYlLZ0fPhG9gLB1VIo0IKow1WgWSdGK_>)
 *Secure and intuitive login interface with modern design aesthetics*
 
 </div>
@@ -123,7 +123,7 @@ Whether you're a researcher looking for comprehensive web insights, a content cr
 
 <div align="center">
 
-![Dashboard Overview](<https://drive.google.com/file/d/1twPsB3BXFUeJP6PQwCi6PfaQbFUFO22O/view?usp=sharing>)
+![Dashboard Overview](<https://drive.google.com/uc?export=view&id=1twPsB3BXFUeJP6PQwCi6PfaQbFUFO22O>)
 *Comprehensive dashboard with analytics and quick access to all features*
 
 </div>
@@ -132,10 +132,10 @@ Whether you're a researcher looking for comprehensive web insights, a content cr
 
 <div align="center">
 
-![Dark Mode](<https://drive.google.com/file/d/1qYlLZ0fPhG9gLB1VIo0IKow1WgWSdGK_/view?usp=drive_link>)
+![Dark Mode](<https://drive.google.com/uc?export=view&id=1qYlLZ0fPhG9gLB1VIo0IKow1WgWSdGK_>)
 *Elegant dark mode interface for comfortable nighttime usage*
 
-![Light Mode](<https://drive.google.com/file/d/121p5BiaxDXI-znMMJwBEDHOJnwfzrG4u/view?usp=drive_link>)
+![Light Mode](<https://drive.google.com/uc?export=view&id=121p5BiaxDXI-znMMJwBEDHOJnwfzrG4u>)
 *Clean light mode interface for bright environment usage*
 
 </div>
