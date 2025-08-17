@@ -95,7 +95,7 @@ Whether you're a researcher looking for comprehensive web insights, a content cr
 
 <div align="center">
 
-![Login Page](<https://drive.google.com/file/d/1qYlLZ0fPhG9gLB1VIo0IKow1WgWSdGK_/view?usp=sharing>)
+![Login Page](<https://drive.google.com/uc?export=view&id=1qYlLZ0fPhG9gLB1VIo0IKow1WgWSdGK>)
 *Secure and intuitive login interface with modern design aesthetics*
 
 </div>
@@ -104,7 +104,7 @@ Whether you're a researcher looking for comprehensive web insights, a content cr
 
 <div align="center">
 
-![Search Interface](<https://drive.google.com/file/d/1vceOcWR43SvrrO-Ui1pl7ogtGbHo0ZEQ/view?usp=sharing>)
+![Search Interface](<https://drive.google.com/uc?export=view&id=1vceOcWR43SvrrO-Ui1pl7ogtGbHo0ZEQ>)
 *Comprehensive search results with AI-powered summaries and source links*
 
 
@@ -114,7 +114,7 @@ Whether you're a researcher looking for comprehensive web insights, a content cr
 
 <div align="center">
 
-![Image Generation Interface](<https://drive.google.com/file/d/1rEnhk6txu7sTKYFot9V04OKHnYPjGVXT/view?usp=sharing>)
+![Image Generation Interface](<https://drive.google.com/uc?export=view&id=1rEnhk6txu7sTKYFot9V04OKHnYPjGVXT>)
 *Gallery view of AI-generated images
 
 </div>
